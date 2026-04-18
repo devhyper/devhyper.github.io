@@ -1,9 +1,9 @@
 ---
-company: "Miramonte High School"
+company: "UCSD"
 role: "Student"
-dateStart: "08/08/2021"
+dateStart: "08/22/2025"
 dateEnd: "Current"
 ---
 
-Student at Miramonte High School
+Student at UCSD
 
